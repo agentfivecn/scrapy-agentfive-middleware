@@ -1,0 +1,1 @@
+from agentfive_middleware.middleware import AgentfiveMiddleware
