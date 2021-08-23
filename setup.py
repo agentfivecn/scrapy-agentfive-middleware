@@ -9,6 +9,7 @@ setuptools.setup(
     license="MIT",
     description="Scrapy downloader middleware to interact with agentfive API",
     long_description=long_description,
+    long_description_content_type='text/markdown',
     author="agentfive",
     author_email="service@agentfive.cn",
     url="https://github.com/agentfivecn/scrapy-agentfive-middleware",
